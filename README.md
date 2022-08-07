@@ -3,7 +3,7 @@ Desafio 01 - Ignite (Rocketseat)
 </h1>
 
 <div align='center'>
-  <img src='./github_assets/web-preview.gif' alt='demo-web' height='425'>  
+  <img src='./github_assets/web-preview.gif' alt='demo-web'>  
 </div>
 
 <h2>Para testar o app localmente, siga os seguintes passos:</h2>
